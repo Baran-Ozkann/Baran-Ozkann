@@ -48,10 +48,10 @@ A 13-layer, 4-timeframe signal indicator for Borsa İstanbul. Calibration showed
 
 ## Toolbox
 
-**Backend** — Java 21, Spring Boot, PostgreSQL, Kafka, Flyway
-**Testing & observability** — JUnit, Testcontainers, jqwik, k6, Prometheus, Grafana, Tempo, OpenTelemetry
-**Infra** — Docker Compose, GitHub Actions
-**Also** — Python, PyTorch, Q#, TypeScript
+- **Backend** — Java 21, Spring Boot, PostgreSQL, Kafka, Flyway
+- **Testing & observability** — JUnit, Testcontainers, jqwik, k6, Prometheus, Grafana, Tempo, OpenTelemetry
+- **Infra** — Docker Compose, GitHub Actions
+- **Also** — Python, PyTorch, Q#, TypeScript
 
 ## Now
 
