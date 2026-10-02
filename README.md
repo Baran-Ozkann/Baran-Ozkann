@@ -2,7 +2,7 @@
 
 Software Engineering student (3rd year) focused on **backend systems** — Java 21, Spring Boot, PostgreSQL, Kafka — with Python for data and ML work.
 
-I'm drawn to problems where "the tests pass" isn't good enough: concurrency, idempotency, money that has to add up. My habit is to build something and then try to prove it wrong — break each safeguard on purpose, load-test until it saturates, and write down exactly where it stops.
+I'm drawn to problems where "the tests pass" isn't good enough: concurrency, idempotency, money that has to add up. Before I call something correct, I try to break it — remove each safeguard on purpose to confirm a test catches it, load-test until it saturates, and write down exactly where it stops.
 
 [LinkedIn](https://www.linkedin.com/in/baranozkan1) · [ozkanbarran@gmail.com](mailto:ozkanbarran@gmail.com)
 
