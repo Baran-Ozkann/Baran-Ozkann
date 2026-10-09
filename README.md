@@ -56,4 +56,3 @@ A 13-layer, 4-timeframe signal indicator for Borsa İstanbul. Calibration showed
 ## Now
 
 - Finishing **settlement-reconciliation**
-- Looking for **Summer 2027 software engineering internships**
